@@ -1,1 +1,4 @@
 .idea
+results/
+pretrained_weights/
+__pycache__
